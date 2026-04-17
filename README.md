@@ -2,11 +2,12 @@
 
 Extract structured data from [Naukri.com](https://Naukri.com) — job listings from Naukri.com with keyword search, filters, and optional detail enrichment
 
-**[Naukri Scraper on Apify →](https://apify.com/blackfalcondata/naukri-scraper)**
+**[Naukri.com Job Scraper - Incremental Mode Saves 83% on Daily Monitoring on Apify →](https://apify.com/blackfalcondata/naukri-scraper)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -22,11 +23,12 @@ Extract structured data from [Naukri.com](https://Naukri.com) — job listings f
 
 
 
+
 **Data pipeline automation**
-Integrate with your ETL pipeline to collect structured listings from naukri.com on a schedule. Export to CSV, JSON, or directly to your database. Use compact mode to control output size.
+Integrate with your ETL pipeline to collect structured listings from Naukri.com on a schedule. Export to CSV, JSON, or directly to your database. Use compact mode to control output size.
 
 **Market research**
-Monitor listings, track trends, and analyze market dynamics with structured, deduplicated data from naukri.com.
+Monitor listings, track trends, and analyze market dynamics with structured, deduplicated data from Naukri.com.
 
 ---
 
@@ -90,6 +92,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
